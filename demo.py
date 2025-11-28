@@ -7,4 +7,15 @@ mv
 rm 
 rmdir 
 
+few extra cmds - 
+
+touch 
+cat 
+ls - a 
+grep 
+top 
+kill 
+awk 
+
+
 
